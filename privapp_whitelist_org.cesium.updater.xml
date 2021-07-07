@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <permissions>
-    <privapp-permissions package="org.cesium.updater">
+    <privapp-permissions package="org.styx.updater">
         <permission name="android.permission.ACCESS_CACHE_FILESYSTEM"/>
         <permission name="android.permission.CHANGE_OVERLAY_PACKAGES"/>
         <permission name="android.permission.REBOOT"/>
